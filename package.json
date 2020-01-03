@@ -1,0 +1,28 @@
+{
+	"name": "xm-graditar-generator",
+	"version": "1.0.0",
+	"description": "A graditar generator - a graditar is an avatar based on gradients and colors",
+	"main": "index.js",
+	"directories": {
+		"test": "tests"
+	},
+	"scripts": {
+		"test": "node ./tests/test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/FRickReich/xm-graditar-generator.git"
+	},
+	"keywords": [
+		"random",
+		"graditar",
+		"generator",
+		"node"
+	],
+	"author": "F. Rick Reich <frickreich@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/FRickReich/xm-graditar-generator/issues"
+	},
+	"homepage": "https://github.com/FRickReich/xm-graditar-generator#readme"
+}
